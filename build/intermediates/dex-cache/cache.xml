@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\H264Android1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="11b6a1961535de27233aa3128d6019fbd3d96eb8">
+        <dex dex="D:\AndroidStudioProjects\H264Android1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_388793078d5655357b53f1c02c84e4dc6f902b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\H264Android1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="00b8285bb3c6001ddc456ed84d388f5c8e70368c">
+        <dex dex="D:\AndroidStudioProjects\H264Android1\app\build\intermediates\pre-dexed\debug\instant-run_77b60de103018db8a46d2a323ba708b9ea02b95d.jar" />
+    </item>
+
+</items>

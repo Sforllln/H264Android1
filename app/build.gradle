@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "24.0.1"
+
+    defaultConfig {
+        applicationId "h264.com"
+        minSdkVersion 4
+        targetSdkVersion 4
+
+        ndk {
+            moduleName "H264Android"
+        }
+
+    }
+
+    sourceSets{
+        main{
+            jni.srcDirs=[]
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}

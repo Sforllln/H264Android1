@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Wed Nov 23 09:58:16 CST 2016
+2.base=D\:\\AndroidStudioProjects\\H264Android1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+5.file=D\:\\AndroidStudioProjects\\H264Android1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\AndroidStudioProjects\\H264Android1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=DEX
+4.base=D\:\\AndroidStudioProjects\\H264Android1\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=D\:\\AndroidStudioProjects\\H264Android1\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libH264Android.so
+5.base=D\:\\AndroidStudioProjects\\H264Android1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=D\:\\AndroidStudioProjects\\H264Android1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+1.set=ANDROID_RESOURCE
+2.file=D\:\\AndroidStudioProjects\\H264Android1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+0.base=D\:\\AndroidStudioProjects\\H264Android1\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+3.file=D\:\\AndroidStudioProjects\\H264Android1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\AndroidStudioProjects\\H264Android1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\AndroidStudioProjects\\H264Android1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=NATIVE_RESOURCE
